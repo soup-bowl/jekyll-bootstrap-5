@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-	{%- include metas.html -%}
+	{%- include head.html -%}
 	<body>
 		<div class="container">
 			{%- include header.html -%}
@@ -9,5 +9,6 @@
 			</main>
 			{%- include footer.html -%}
 		</div>
+		<script src="{{ "/assets/js/bootstrap.bundle.js" | relative_url }}"></script>
 	</body>
 </html>
