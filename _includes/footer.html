@@ -1,3 +1,8 @@
-<footer>
-	<p>Footer</p>
+<footer class="pt-5 my-5 text-muted border-top">
+	&#169; {{ 'now' | date: "%Y" }} &nbsp;
+	{%- if site.author -%}
+		{{ site.author | escape }}
+	{%- else -%}
+		{{ site.title | escape }}
+	{%- endif -%}
 </footer>
