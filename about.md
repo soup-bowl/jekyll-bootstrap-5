@@ -12,8 +12,10 @@ Base theme example.
 
 ### Header 3
 
-```
-Code snippet
+```php
+function hello_world($bob) {
+	return $bob;
+}
 ```
 
 Body of text with a [hyperlink](/).
