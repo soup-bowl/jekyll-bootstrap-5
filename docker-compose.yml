@@ -4,7 +4,7 @@ services:
     image: docker.io/jekyll/jekyll:latest
     command: jekyll serve
     ports:
-    - 8080:4000
+    - 4000:4000
     environment:
       JEKYLL_UID: 1000
       JEKYLL_GID: 1000
