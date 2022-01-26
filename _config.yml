@@ -7,9 +7,11 @@ description: > # this means to ignore newlines until "show_excerpts:"
 
 bootstrap:
   date_format: "%b %-d, %Y"
-
-header_pages:
- - about.md
+  header_menu:
+    - url: about.md
+      Submenu:
+      - title: Subpage
+        url: about.md
 
 theme: bootstrap-5
 
