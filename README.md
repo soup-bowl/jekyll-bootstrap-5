@@ -11,3 +11,8 @@ _Todo: Add how to install to this segment. Need to figure out Ruby Gems._
 This theme borrows most of the structural elements from Minima 2.5, with a few extras:
 
 * Stuff.
+
+## ⭐ Inspirations
+
+* [Minima](https://github.com/jekyll/minima), Jekyll's default theme.
+* [Bootstrap theme](https://github.com/jonaharagon/jekyll-bootstrap-theme) by Jonah Aragon.
