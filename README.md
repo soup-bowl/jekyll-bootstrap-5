@@ -2,7 +2,7 @@
 
 Boostrap & Minima, and everything nice. _Add Chemical X and what do you have? A bloody mess, that's what._
 
-⚠️ **This theme is still in development! Not recommended for production use.**
+⚠️ **This theme is still in development! Not recommended for production use. [Use this one][ja] instead.**
 
 ## 🦉 How to Use
 
@@ -15,4 +15,6 @@ This theme borrows most of the structural elements from Minima 2.5, with a few e
 ## ⭐ Inspirations
 
 * [Minima](https://github.com/jekyll/minima), Jekyll's default theme.
-* [Bootstrap theme](https://github.com/jonaharagon/jekyll-bootstrap-theme) by Jonah Aragon.
+* [Bootstrap theme][ja] by Jonah Aragon.
+
+[ja]: https://github.com/jonaharagon/jekyll-bootstrap-theme
